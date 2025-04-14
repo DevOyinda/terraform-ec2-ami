@@ -59,3 +59,8 @@ resource "aws_ami_from_instance" "example_ami" {
   snapshot_without_reboot = true
 }
 ```
+![](./images/main.tf.png)
+
+![](./images/terraform%20applyinit.png)
+
+![](./images/git%20add.png)
