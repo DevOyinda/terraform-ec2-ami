@@ -64,3 +64,10 @@ resource "aws_ami_from_instance" "example_ami" {
 ![](./images/terraform%20applyinit.png)
 
 ![](./images/git%20add.png)
+
+## Terraform Plan
+![](./images/terraform%20plan.png)
+
+## Terraform destroy
+
+![](./images/terraform%20destroy.png)
