@@ -59,6 +59,7 @@ resource "aws_ami_from_instance" "example_ami" {
   snapshot_without_reboot = true
 }
 ```
+
 ![](./images/main.tf.png)
 
 ![](./images/terraform%20applyinit.png)
@@ -71,3 +72,9 @@ resource "aws_ami_from_instance" "example_ami" {
 ## Terraform destroy
 
 ![](./images/terraform%20destroy.png)
+
+
+## Terraform instance
+
+![](./images/terraform%20istannce.png)
+
